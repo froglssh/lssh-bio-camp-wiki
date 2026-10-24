@@ -5,6 +5,14 @@
 
 ---
 
+## 🏫 校本課程子知識庫直達 (Curriculum Sub-Knowledge Base)
+
+> [!TIP]
+> **已建立專屬課程子知識庫**：針對 108 課綱校內正式開課、高二多元選修（10週密集）、高一彈性學習（18週）、麗山校訂課程學生成績常態分佈（90分20%、85分50%）與學習歷程檔案 OPQN 輔導：  
+> 🔗 **[公民科學培訓課程 課程子知識庫 (Curriculum Sub-Wiki)](file:///Users/froglssh/Library/CloudStorage/GoogleDrive-frog@lssh.tp.edu.tw/我的雲端硬碟/01專題教材/公民科學培訓課程/index.md)**
+
+---
+
 ## 🧭 多角色快速導航入口 (Role-based Portals)
 
 ```mermaid
