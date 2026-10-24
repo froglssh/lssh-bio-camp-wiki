@@ -5,11 +5,12 @@
 
 ---
 
-## 🏫 校本課程子知識庫直達 (Curriculum Sub-Knowledge Base)
+## 🌐 三位一體立體知識庫網絡通道 (Tri-Wiki Navigation)
 
 > [!TIP]
-> **已建立專屬課程子知識庫**：針對 108 課綱校內正式開課、高二多元選修（10週密集）、高一彈性學習（18週）、麗山校訂課程學生成績常態分佈（90分20%、85分50%）與學習歷程檔案 OPQN 輔導：  
-> 🔗 **[公民科學培訓課程 課程子知識庫 (Curriculum Sub-Wiki)](file:///Users/froglssh/Library/CloudStorage/GoogleDrive-frog@lssh.tp.edu.tw/我的雲端硬碟/01專題教材/公民科學培訓課程/index.md)**
+> **已建立兩座垂直專屬子知識庫，與本母庫形成三位一體立體知識網絡**：
+> 1. 🏫 **[公民科學培訓課程 課程子知識庫 (Curriculum Sub-Wiki)](file:///Users/froglssh/Library/CloudStorage/GoogleDrive-frog@lssh.tp.edu.tw/我的雲端硬碟/01專題教材/公民科學培訓課程/index.md)**：高二多元選修（10週）、高一彈性學習（18週）、麗山常態成績評量規準 (90分≤20%、85分≤50%)、學習歷程檔案 (OPQN)。
+> 2. 🏆 **[公民科學家 課程發表與得獎子知識庫 (Awards Sub-Wiki)](file:///Users/froglssh/Library/CloudStorage/GoogleDrive-frog@lssh.tp.edu.tw/我的雲端硬碟/09課程發表/1公民科學家/index.md)**：天下文化「未來教育 臺灣100」得獎教案、全國 KDP 教學創新國際認證、臺北市行動研究雙特優、優質化嘉年華巨幅海報展與優質學校申辦論述。
 
 ---
 
